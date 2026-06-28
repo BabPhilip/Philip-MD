@@ -1,0 +1,10 @@
+{
+  "name": "philip-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot by Philip Babs",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
